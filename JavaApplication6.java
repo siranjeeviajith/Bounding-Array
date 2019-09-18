@@ -3,6 +3,29 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/* 
+Sample Input:
+3 8
+3-8
+do you wish to continue?(y/n):
+y
+10 12
+3-8
+10-12
+do you wish to continue?(y/n):
+y
+10 15
+3-8
+10-15
+do you wish to continue?(y/n):
+y
+0 20
+0-20
+do you wish to continue?(y/n):
+n
+*/
+
 package javaapplication6;
 
 import java.util.*;
